@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node13" appversion="7.0.4" apprev="19982">
+  <panorama id="node1">
+    <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-3.2587999999999999" levelbias="0.400" width="3750" height="3750" leveltilesize="510" levelingpitch="1.9196299999999999" levelbiashidpi="1.000">
+      <level width="3750" height="3750" preload="0" predecode="0"/>
+      <level width="1875" height="1875" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-178.148" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node1" heading="-178.148" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="58.8889" y="-1.49414" y_floorplan_percent="72.8246" mapid="Parkmap" x="0.873413"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Память о 400 наумкинцах" tilt="-7.38" skinid="ht_node" description="" url="{node2}" pan="-357.61" target="$fwd"/>
+      <hotspot id="Point02" title="Телевидение заинтересовалось" tilt="-10.38" skinid="ht_node" description="" url="{node3}" pan="-326.75" target="$fwd"/>
+      <hotspot id="Point03" title="Значимость для сельчан" tilt="-9.58" skinid="ht_node" description="" url="{node4}" pan="-29.21" target="$fwd"/>
+      <hotspot id="Point04" title="Калитка Вечного огня" tilt="-9.23" skinid="ht_node" description="" url="{node5}" pan="-177.17" target=""/>
+      <hotspot id="Point05" title="Радость не выразить словами" tilt="-28.13" skinid="ht_info" description="На мероприятии было сказано много благодарственных и теплых слов в адрес тех, кто сражался на поле боя и отстоял Мир на земле. &#xa;&#xa;&quot;Память о защитниках Отечества передается и будет передаваться из поколения в поколение. Эта память о погибших за Родину обьединяет все народы России, вновь и вновь призывая к единству&quot;, - подчеркнул глава района А. Н. Шагаретдинов." url="" pan="-0.09" target=""/>
+      <hotspot id="Point06" title="Фото с фестиваля" tilt="1.53" skinid="ht_node" description="" url="{node12}" pan="-51.31" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-180.546" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node2" heading="-180.546" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="58.5185" y="-1.76331" y_floorplan_percent="85.9438" mapid="Parkmap" x="0.86792"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Радость не выразить словами" tilt="-10.22" skinid="ht_node" description="" url="{node1}" pan="-178.77" target="$bwd"/>
+      <hotspot id="Point02" title="Телевидение заинтересовалось" tilt="-18.96" skinid="ht_node" description="" url="{node3}" pan="-242.46" target="$bwd"/>
+      <hotspot id="Point03" title="Правая часть мемориала" tilt="-21.7" skinid="ht_node" description="" url="{node4}" pan="-114.35" target="$bwd"/>
+      <hotspot id="Point04" title="Память о 400 наумкинцах" tilt="-47.95" skinid="ht_info" description="На монументе высечены фамилии 213 фронтовиков, оставшихся на полях сражений, и еще 211, вернувшихся с Победой в родную деревню. &#xa;&#xa;В общей сумме была увековечена память более 400 героев-наумкинцев, участников Великой Отечественной войны, а также имена земляков - участников других исторических событий." url="" pan="-3.29" target=""/>
+      <hotspot id="Point05" title="Открытие памятника и парка" tilt="-24.76" skinid="ht_image" description="" url="images/_txR0H5zsRM.jpg" pan="-139.47" target=""/>
+      <hotspot id="Point06" title="Открытие памятника и парка" tilt="-26.4" skinid="ht_image" description="" url="images/kJLKUrVgE7s.jpg" pan="-213.99" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-1.1781299999999999" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="0.044270400000000001" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-180.557" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node3" heading="-180.557" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="67.7778" y="-1.70837" y_floorplan_percent="83.2664" mapid="Parkmap" x="1.00525"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Память о 400 наумкинцах" tilt="-16.77" skinid="ht_node" description="" url="{node2}" pan="-56.08" target="$fwd"/>
+      <hotspot id="Point02" title="Телевидение заинтересовалось" tilt="-30.89" skinid="ht_info" description="В ноябре 2022 г. деревню посетила съемочная группа БСТ. Гости интересовались и Парком Победы, и ФАПом д.Балыклыкуль, и многими другими объектами. В частности, строящимся храмом.&#xa;&#xa;Возведение храма в честь бессребреников Космы и Дамиана начато в 2014 г. Строительство продолжается." url="" pan="-358.28" target=""/>
+      <hotspot id="Point03" title="В гостях - БСТ" tilt="-26.41" skinid="ht_image" description="" url="images/PYih3_JAfUQ.jpg" pan="-171.9" target=""/>
+      <hotspot id="Point04" title="Радость не выразить словами" tilt="-14.6" skinid="ht_node" description="" url="{node1}" pan="-143.03" target=""/>
+      <hotspot id="Point05" title="Как перерезали красную ленту?" tilt="-5.26" skinid="ht_node" description="" url="{node5}" pan="-163.52" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-3.0117099999999999" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="-1.1896899999999999" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-181.292" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node4" heading="-181.292" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="49.2593" y="-1.66992" y_floorplan_percent="81.3922" mapid="Parkmap" x="0.730591"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Память о 400 наумкинцах" tilt="-22.03" skinid="ht_node" description="" url="{node2}" pan="-295.8" target="$fwd"/>
+      <hotspot id="Point02" title="Радость не выразить словами" tilt="-10.97" skinid="ht_node" description="" url="{node1}" pan="-202.92" target=""/>
+      <hotspot id="Point03" title="Значимость для сельчан" tilt="-36" skinid="ht_info" description="Значимость Парка Победы и мемориала для сельчан выразила во время открытия памятника глава сельского поселения Любовь Александровна:&#xa;&#xa;&quot;Уверена, что парк станет центром притяжения для жителей и гостей села, здесь будем организовывать мероприятия и просто встречаться в свободное время&quot; " url="" pan="-1.46" target=""/>
+      <hotspot id="Point04" title="Как перерезали красную ленту?" tilt="-3.58" skinid="ht_node" description="" url="{node5}" pan="-189.02" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-2.6384699999999999" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="-0.49430400000000002" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-180.433" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node5" heading="-180.433" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="58.8889" y="-1.29089" y_floorplan_percent="62.9183" mapid="Parkmap" x="0.873413"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Радость не выразить словами" tilt="-9.19" skinid="ht_node" description="" url="{node1}" pan="-359.69" target=""/>
+      <hotspot id="Point02" title="Реализация проекта в процессе" tilt="-6.88" skinid="ht_node" description="" url="{node6}" pan="-193.84" target=""/>
+      <hotspot id="Point03" title="Как перерезали красную ленту?" tilt="-29.2" skinid="ht_info" description="7 октября 2022 г. объект сдан.&#xa;&#xa;21 октября в торжественной обстановке состоялось открытие «Парка Победы». Митинг был посвящен празднику &quot;Белых журавлей&quot;.&#xa;&#xa;Красную ленточку перерезали глава района А.Н.Шагаретдинов и председатель Совета ветеранов д.Наумкино Л.К.Макарова. Затем гости прошли в центр парка.&#xa;" url="" pan="0.08" target=""/>
+      <hotspot id="Point04" title="О жителях д.Наумкино" tilt="-5.1" skinid="ht_node" description="" url="{node7}" pan="-144.79" target=""/>
+      <hotspot id="Point05" title="Было из чего выбрать" tilt="-2.95" skinid="ht_node" description="" url="{node10}" pan="-102.37" target=""/>
+      <hotspot id="Point06" title="Восточный вход в парк" tilt="-4.34" skinid="ht_node" description="" url="{node9}" pan="-224.57" target=""/>
+      <hotspot id="Point07" title="Телевидение заинтересовалось" tilt="-5.78" skinid="ht_node" description="" url="{node3}" pan="-342.99" target=""/>
+      <hotspot id="Point08" title="Значимость для сельчан" tilt="-5.4" skinid="ht_node" description="" url="{node4}" pan="-17.45" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-2.9700299999999999" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="1.9837899999999999" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-89.4804" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node6" heading="-89.4804" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="70.7407" y="-1.03271" y_floorplan_percent="50.3347" mapid="Parkmap" x="1.04919"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Как перерезали красную ленту?" tilt="-8.26" skinid="ht_node" description="" url="{node5}" pan="-287.24" target=""/>
+      <hotspot id="Point02" title="О жителях д.Наумкино" tilt="-8.04" skinid="ht_node" description="" url="{node7}" pan="-0.25" target=""/>
+      <hotspot id="Point03" title="Восточный вход в парк" tilt="-10.96" skinid="ht_node" description="" url="{node9}" pan="-179.66" target=""/>
+      <hotspot id="Point04" title="Реализация проекта в процессе" tilt="-27.93" skinid="ht_info" description="Работы по благоустройству парка длились все лето 2022 г. и продолжились осенью. В реализации проекта активно участвовали местные жители. Неоднократно проводились субботники." url="" pan="-3.69" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-3.4729100000000002" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="0.20666399999999999" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90.0433" fovmode="0">
+      <start projection="4" tilt="0" fov="70" pan="0"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node7" heading="-90.0433" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="47.4074" y="-1.02173" y_floorplan_percent="49.7992" mapid="Parkmap" x="0.703125"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Реализация проекта в процессе" tilt="-7.43" skinid="ht_node" description="" url="{node6}" pan="-179.13" target=""/>
+      <hotspot id="Point02" title="Памятник участникам прошлых войн" tilt="-11.4" skinid="ht_node" description="" url="{node8}" pan="-359.92" target=""/>
+      <hotspot id="Point03" title="Было из чего выбрать" tilt="-7.96" skinid="ht_node" description="" url="{node10}" pan="-328.28" target=""/>
+      <hotspot id="Point04" title="О жителях д.Наумкино" tilt="-24.61" skinid="ht_info" description="В Наумкино проживают, в основном, представители чувашского, мордовского и татарского народов. Их объединяет одно – желание, чтобы их деревня была самой лучшей." url="" pan="-0.42" target=""/>
+      <hotspot id="Point05" title="Как перерезали красную ленту?" tilt="-7.4" skinid="ht_node" description="" url="{node5}" pan="-238.8" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-3.1043799999999999" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="1.0557799999999999" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-91.837" fovmode="0">
+      <start projection="4" tilt="0.94" fov="70" pan="-1.99"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node8" heading="-91.837" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="35.5556" y="-1.01074" y_floorplan_percent="49.2637" mapid="Parkmap" x="0.527344"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="О жителях д.Наумкино" tilt="-11.72" skinid="ht_node" description="" url="{node7}" pan="-182.42" target=""/>
+      <hotspot id="Point02" title="Памятник участникам прошлых войн" tilt="-34.91" skinid="ht_info" description="Участники революции (1904-1905 г.г.):&#xa;- Фомин Трофим Яковлевич&#xa;- Евдокимов Федор&#xa;&#xa;Участники Гражданской войны:&#xa;- командир партизанского отряда (1918-1920 г.г.) Макаров Михаил Илларионович" url="" pan="-5.22" target=""/>
+      <hotspot id="Point03" title="Было из чего выбрать" tilt="-16.57" skinid="ht_node" description="" url="{node10}" pan="-297.8" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node9">
+    <input leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="0" levelbias="0.400" width="3706" height="3706" leveltilesize="510" levelingpitch="0" levelbiashidpi="1.000">
+      <level width="3706" height="3706" preload="0" predecode="0"/>
+      <level width="1853" height="1853" preload="0" predecode="0"/>
+      <level width="926" height="926" preload="0" predecode="0"/>
+      <level width="463" height="463" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-90.3298" fovmode="0">
+      <start projection="4" tilt="0.69" fov="70" pan="-6.34"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node9" heading="-90.3298" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="80.7407" y="-1.02173" y_floorplan_percent="49.7992" mapid="Parkmap" x="1.19751"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Реализация проекта в процессе" tilt="-9.12" skinid="ht_node" description="" url="{node9}" pan="-4.15" target=""/>
+      <hotspot id="Point02" title="Восточный вход в парк" tilt="-28.05" skinid="ht_info" description="Восточный вход позволяет жителям деревни свободной посещать общественное место, без долгого обхода со стороны библиотеки.&#xa;&#xa;Справа от торопинки - молодые саженцы ели, посаженные в год открытия парка." url="" pan="-4.29" target=""/>
+      <hotspot id="Point03" title="Как перерезали красную ленту?" tilt="-5.62" skinid="ht_node" description="" url="{node5}" pan="-327.64" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node10">
+    <input leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-1.7436" levelbias="0.400" width="3750" height="3750" leveltilesize="510" levelingpitch="0.18967800000000001" levelbiashidpi="1.000">
+      <level width="3750" height="3750" preload="0" predecode="0"/>
+      <level width="1875" height="1875" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-94.3795" fovmode="0">
+      <start projection="4" tilt="-1.23" fov="70" pan="175.71"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node10" heading="-94.3795" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="28.1481" y="-1.15906" y_floorplan_percent="56.4926" mapid="Parkmap" x="0.41748"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="О жителях д.Наумкино" tilt="-6.29" skinid="ht_node" description="" url="{node7}" pan="-151.19" target=""/>
+      <hotspot id="Point02" title="История одной инициативы" tilt="-10.83" skinid="ht_node" description="" url="{node13}" pan="-359.64" target=""/>
+      <hotspot id="Point03" title="Здесь играют народную музыку" tilt="-10.18" skinid="ht_node" description="" url="{node11}" pan="-269.91" target=""/>
+      <hotspot id="Point04" title="Было из чего выбрать" tilt="-25.08" skinid="ht_info" description="На голосовании по ППМИ-2022 перед жителями стояло два выбора:&#xa;&#xa;1.Благоустройство памятника, обелиска погибшим воинам и прилегающей к ним территории в д.Наумкино на территории сельского поселения&#xa;&#xa;2.Приобретение пожарной машины.&#xa;&#xa;В итоге наумкинцам удалось выиграть на свою цель более 1 млн. рублей." url="" pan="-177.22" target=""/>
+      <hotspot id="Point05" title="Памятник участникам прошлых войн" tilt="-11.91" skinid="ht_node" description="" url="{node8}" pan="-106.72" target=""/>
+      <hotspot id="Point06" title="Фото с фестиваля" tilt="1.35" skinid="ht_node" description="" url="{node12}" pan="-270.47" target=""/>
+      <hotspot id="Point07" title="Как перерезали красную ленту?" tilt="-5.06" skinid="ht_node" description="" url="{node5}" pan="-196.85" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node11">
+    <input leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-0.71602900000000003" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="0.058369600000000001" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-190.008" fovmode="0">
+      <start projection="4" tilt="0.52" fov="70" pan="-8.57"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node11" heading="-190.008" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="27.7778" y="-1.50787" y_floorplan_percent="73.494" mapid="Parkmap" x="0.411987"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Было из чего выбрать" tilt="-5.91" skinid="ht_node" description="" url="{node10}" pan="-182.49" target=""/>
+      <hotspot id="Point02" title="Фото с фестиваля" tilt="-4.35" skinid="ht_node" description="" url="{node12}" pan="-4.16" target=""/>
+      <hotspot id="Point03" title="Здесь играют народную музыку" tilt="-25.22" skinid="ht_info" description="В июле 2022 г., еще до официального открытия, в этом парке прошел третий фестиваль «Играй, гармонь мордовская!»&#xa;&#xa;Побороться за чемпионство приехали 15 музыкантов из десяти районов и городов республики.&#xa;&#xa;Праздник посетили гости из Алтайского края, Севастополя, Кемеровской и Омской областей." url="" pan="-2.43" target=""/>
+      <hotspot id="Point04" title="История одной инициативы" tilt="-3.67" skinid="ht_node" description="" url="{node13}" pan="-150.85" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node12">
+    <input leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-2.8516400000000002" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="0.52598199999999995" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-3.43703" fovmode="0">
+      <start projection="4" tilt="-12.95" fov="70" pan="-2.47"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node12" heading="-3.43703" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="27.037" y="-1.73584" y_floorplan_percent="84.6051" mapid="Parkmap" x="0.401001"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Здесь играют народную музыку" tilt="-13.88" skinid="ht_node" description="" url="{node12}" pan="-5.39" target=""/>
+      <hotspot id="Point02" title="Фото с фестиваля" tilt="-24.19" skinid="ht_image" description="" url="images/kh1IrWHLopM.jpg" pan="-327.78" target=""/>
+      <hotspot id="Point03" title="Фото с фестиваля" tilt="-27.78" skinid="ht_image" description="" url="images/ZjlMqM7tQ2U.jpg" pan="-4" target=""/>
+      <hotspot id="Point04" title="Фото с фестиваля" tilt="-22.63" skinid="ht_image" description="" url="images/EodNi2vHPgE.jpg" pan="-37.63" target=""/>
+      <hotspot id="Point05" title="Было из чего выбрать" tilt="-4.59" skinid="ht_node" description="" url="{node10}" pan="-3.7" target=""/>
+      <hotspot id="Point06" title="Радость не выразить словами" tilt="-7.52" skinid="ht_node" description="" url="{node1}" pan="-63.87" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <panorama id="node13">
+    <input leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" overlap="1" levelingroll="-2.9711599999999998" levelbias="0.400" width="3749" height="3749" leveltilesize="510" levelingpitch="-0.162915" levelbiashidpi="1.000">
+      <level width="3749" height="3749" preload="0" predecode="0"/>
+      <level width="1874" height="1874" preload="0" predecode="0"/>
+      <level width="937" height="937" preload="0" predecode="0"/>
+      <level width="468" height="468" preload="1" predecode="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="-280.589" fovmode="0">
+      <start projection="4" tilt="0.06" fov="70" pan="-9.07"/>
+      <flyin projection="9" tilt="-90" fov="170" pan="0"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" fovstereographic="330" scaletofit="1" tilt="90" fov="120" pan="360"/>
+    </view>
+    <userdata source="" longitude="" latitude="" title="" tags="Panorams" customnodeid="" nodeid="node13" heading="-280.589" datetime="" copyright="" comment="" info="" description="" author="">
+      <mapcoords x_floorplan_percent="15.9259" y="-1.15356" y_floorplan_percent="56.2249" mapid="Parkmap" x="0.236206"/>
+    </userdata>
+    <hotspots width="180" height="20" wordwrap="1" smoothmovement="0">
+      <label textalpha="1" border="1" backgroundcolor="0xffffff" width="180" borderradius="1" height="20" bordercolor="0x000000" borderalpha="1" wordwrap="1" textcolor="0x000000" backgroundalpha="1" enabled="1" background="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" borderalpha="1" handcursor="1" backgroundalpha="0.25098" backgroundcolor="0x0000ff"/>
+      <hotspot id="Point01" title="Было из чего выбрать" tilt="-6.82" skinid="ht_node" description="" url="{node10}" pan="-11.48" target=""/>
+      <hotspot id="Point02" title="Библио-этностудия мордовской культуры" tilt="2.32" skinid="ht_info" description="В 2022 г. Наумкинская сельская библиотека получила грант в размере 330 тысяч рублей на создание библио-этностудии мордовской культуры &quot;Лисьмаприне&quot;.&#xa;&#xa;Проект направлен на сохранение культурного наследия эрзян – как малочисленной этнической группы финно-угорского народа мордвы, проживающей на территории Аургазинского района. " url="" pan="-187.85" target=""/>
+      <hotspot id="Point03" title="История одной инициативы" tilt="-21.9" skinid="ht_info" description="12 января 2022 г. жители д.Наумкино проголосовали за восстановление Парка Победы и памятников на его территории в рамках  ППМИ-2022.&#xa;&#xa;Их вдохновляло то, что в предыдущие годы благодаря участию в проекте удаось отремонтировать Дом культуры." url="" pan="-11.71" target=""/>
+      <hotspot id="Point04" title="Здесь играют народную музыку" tilt="-3.58" skinid="ht_node" description="" url="{node11}" pan="-54.5" target=""/>
+    </hotspots>
+    <media/>
+    <transition zoomafteroutfov="20" blendcolor="0x000000" zoomspeed="2" zoomfov="20" zoomafterinfov="90" type="crossdissolve" delay="none" zoomin="0" zoomout="0" zoomoutpause="1" softedge="0" enabled="1" blendtime="1"/>
+    <animation animsequence="Animation01" syncanimationwithvideo="0" clipsrandom="0" useinautorotation="0"/>
+    <control invertcontrol="1" rubberband="0" lockedkeyboardzoom="0" contextprojections="0" lockedwheel="0" invertwheel="0" simulatemass="1" contextfullscreen="1" speedwheel="1" hideabout="0" sensitivity="8" contextvr="1" lockedkeyboard="0" zoomcentercursor="1" dblclickfullscreen="0" lockedmouse="0"/>
+    <vr toggleskinbutton="1"/>
+  </panorama>
+  <masternode>
+    <userdata copyright="" comment="" title="" tags="" description="" author=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map bgcolor="rgba(255, 255, 255, 1)" id="Parkmap" title="Карта Парка Победы" crispedges="0" tileformat="jpg" transparent="0" type="file" zoomlevels="1" index="0" width="1080" height="1494" floorplannorth="0"/>
+</tour>
